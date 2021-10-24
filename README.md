@@ -1,4 +1,7 @@
 <h1 align="center">💀 MonsterLandRPG - v1.4a 💀</h1>
+<div align="center">
+ <h2>Languages used: <img alt="MZM-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></h2>
+</div>
  <div align="center">
     <img alt="MZM-photo1" style="border-radius:50px;" src="https://i.imgur.com/HSq3FN9.png">
   </div>
